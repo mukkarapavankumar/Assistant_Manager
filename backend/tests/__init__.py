@@ -1,0 +1,1 @@
+"""Test package for Assistant Manager backend."""
